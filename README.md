@@ -1,5 +1,11 @@
 # Romeo Ahmed's Personal Blog
 
+[![GitHub license](https://img.shields.io/github/license/romeoahmed/romeoahmed-blog?style=flat)](https://github.com/romeoahmed/romeoahmed-blog/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/romeoahmed/romeoahmed-blog?style=flat)](https://github.com/romeoahmed/romeoahmed-blog/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/romeoahmed/romeoahmed-blog?style=flat)](https://github.com/romeoahmed/romeoahmed-blog/forks)
+[![GitHub issues](https://img.shields.io/github/issues/romeoahmed/romeoahmed-blog?style=flat)](https://github.com/romeoahmed/romeoahmed-blog/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/romeoahmed/romeoahmed-blog?style=flat)](https://github.com/romeoahmed/romeoahmed-blog/pulls)
+
 ## Introduction
 
 This is the GitHub repository for my personal blog, hosted at [Romeo Ahmed's Blog](https://romeoahmed.top).  
