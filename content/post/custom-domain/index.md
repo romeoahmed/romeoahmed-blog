@@ -20,17 +20,17 @@ keyword: ["域名", "Cloudflare", "博客"]
 
 首先，你需要在域名注册商（如 Namesilo）注册一个域名。注册完成后，你将拥有一个独特的域名，例如：`yourdomain.com` 。
 
-## 设置Cloudflare
+## 设置 Cloudflare
 
 接下来，你需要创建一个 Cloudflare 账户并添加你的域名。按照 Cloudflare 的引导操作，将你的域名的 DNS 解析服务器更改为 Cloudflare 提供的服务器。
 
-## 部署博客到Cloudflare Pages
+## 部署博客到 Cloudflare Pages
 
 将你的博客代码部署到Cloudflare Pages。在部署过程中，你需要设置自定义域名。在Cloudflare Pages的设置页面，找到“Custom Domains”部分，添加你的域名 `yourdomain.com` 。
 
 如果你成功将 DNS 解析服务器更改为 Cloudflare 提供的服务器，Cloudflare Pages 将自动添加 CNAME 记录并为你的博客启用 HTTPS 加密。
 
-## 配置SSL证书
+## 配置 SSL 证书
 
 在 Cloudflare 的 SSL/TLS 设置页面，选择 `Full(strict)` 模式。这将启用 HTTPS 加密，确保你的博客访问安全。
 
