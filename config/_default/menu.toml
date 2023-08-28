@@ -26,7 +26,7 @@ icon = "brand-gmail"
 [[social]]
 identifier = "bilibili"
 name = "Bilibili"
-url = "https://space.bilibili.com/3272521"
+url = "https://space.bilibili.com/355572423"
 
 [social.params]
 icon = "brand-bilibili"
