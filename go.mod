@@ -1,5 +1,5 @@
-module github.com/romeoahmed/romeoahmed-blog/
+module github.com/CaiJimmy/hugo-theme-stack-starter
 
 go 1.17
 
-require github.com/CaiJimmy/hugo-theme-stack/v3 // indirect
+require github.com/CaiJimmy/hugo-theme-stack/v3 v3.19.0 // indirect
