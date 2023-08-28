@@ -12,11 +12,11 @@ keyword: ["Hugo", "Github", "Cloudflare", "博客", "第一"]
 
 本教程将指导你使用 Hugo 静态网页生成器、Github Actions 自动更新主题以及 Cloudflare Pages 部署博客。我们将使用 Hugo 的 [stack](https://themes.gohugo.io/themes/hugo-theme-stack/) 主题。
 
-### 安装 Hugo
+## 安装 Hugo
 
 首先，你需要安装 Hugo。请访问 [Hugo 官方网站](https://gohugo.io/getting-started/installing/) 获取安装说明。
 
-### 创建新的 Hugo 网站
+## 创建新的 Hugo 网站
 
 在安装 Hugo 后，打开终端并运行以下命令创建一个新的 Hugo 网站：
 
@@ -25,7 +25,7 @@ hugo new site my-blog
 cd my-blog
 ```
 
-### 添加 stack 主题
+## 添加 stack 主题
 
 接下来，我们将添加 stack 主题。在终端中运行以下命令：
 
@@ -39,7 +39,7 @@ git submodule add https://github.com/CaiJimmy/hugo-theme-stack.git themes/stack
 theme = "stack"
 ```
 
-### 创建内容
+## 创建内容
 
 现在，你可以开始创建博客内容。运行以下命令创建一篇新文章：
 
@@ -57,7 +57,7 @@ hugo server -D
 
 现在你可以在 `http://localhost:131` 预览网站。
 
-### 部署到 Cloudflare Pages
+## 部署到 Cloudflare Pages
 
 首先，你需要在 Github 上创建一个新的仓库。将你的 Hugo 网站推送到新创建的 Github 仓库。
 
@@ -73,7 +73,7 @@ hugo server -D
 
 部署完成后，你将收到一个 `*.pages.dev` 子域名，用于访问你的博客。
 
-### 使用 Github Actions 自动更新主题
+## 使用 Github Actions 自动更新主题
 
 创建一个名为 `.github/workflows/update-theme.yml` 的新文件，并添加以下内容：
 
@@ -121,7 +121,7 @@ jobs:
 
 现在，你已经成功使用 Hugo、Github Actions 和 Cloudflare Pages 搭建了你的第一个博客。每次向 Github 仓库推送新的内容时，Cloudflare Pages 都会自动构建并部署你的博客。
 
-### 参考资料
+## 参考资料
 
 - [1].[Deploy a Hugo site · Cloudflare Pages docs](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 - [2].[Create a Hugo Website with GitHub Pages, GitHub Actions, and Cloudflare](https://schnerring.net/blog/create-a-hugo-website-with-github-pages-github-actions-and-cloudflare/)
