@@ -1,5 +1,6 @@
 ---
 title: "使用 Hugo + Github Actions + Cloudflare Pages 搭建你的第一个博客"
+slug: "first-blog"
 date: 2023-08-28T21:45:21+08:00
 toc: true
 draft: false

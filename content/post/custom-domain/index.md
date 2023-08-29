@@ -1,5 +1,6 @@
 ---
 title: "为你的博客设置自定义域名并开启 CDN 加速"
+slug: "custom-domain"
 date: 2023-08-28T22:41:47+08:00
 toc: true
 draft: false

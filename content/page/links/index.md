@@ -14,6 +14,7 @@ menu:
             icon: link
 
 comments: false
+license: false
 ---
 
 To use this feature, add `links` section to frontmatter.

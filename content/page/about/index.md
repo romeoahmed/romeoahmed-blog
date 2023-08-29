@@ -1,7 +1,6 @@
 ---
 title: "关于"
 date: 2023-08-28
-layout: "about"
 slug: "about"
 menu:
     main:
@@ -9,6 +8,7 @@ menu:
         params: 
             icon: user
 comments: false
+license: false
 ---
 
 没有任何介绍捏 =￣ω￣=  
