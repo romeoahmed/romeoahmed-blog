@@ -1,7 +1,6 @@
 ---
 title: "为你的博客设置自定义域名并开启 CDN 加速"
 date: 2023-08-28T22:41:47+08:00
-license: "CC-BY-NC-SA-4.0"
 toc: true
 draft: false
 readingTime: true

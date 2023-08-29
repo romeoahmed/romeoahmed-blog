@@ -1,7 +1,6 @@
 ---
 title: "使用 Hugo + Github Actions + Cloudflare Pages 搭建你的第一个博客"
 date: 2023-08-28T21:45:21+08:00
-license: "CC-BY-NC-SA-4.0"
 toc: true
 draft: false
 readingTime: true
