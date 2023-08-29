@@ -47,12 +47,3 @@ keyword: ["域名", "Cloudflare", "博客"]
 - 配置 `Page Rules` 以实现更高级的缓存策略
 
 完成以上步骤后，你的博客将使用自定义域名并通过 Cloudflare 提供的 CDN 加速访问。
-
-## 参考资料
-
-- [1].[Markdown and image alignment - html](https://stackoverflow.com/questions/255170/markdown-and-image-alignment)
-- [2].[How to add extra space in Markdown?](https://docs.document360.com/docs/how-to-add-extra-space-in-markdown)
-- [3].[Markdown Syntax](https://www.dotcms.com/docs/latest/markdown-syntax)
-- [4].[Markdown style guide | styleguide](https://google.github.io/styleguide/docguide/style.html)
-- [5].[Markdown cheat sheet](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
-- [6].[Hacks](https://www.markdownguide.org/hacks/)
