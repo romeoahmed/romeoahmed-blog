@@ -6,7 +6,8 @@ toc: true
 draft: false
 readingTime: true
 comments: true
-categories: ["blog", "hugo", "cloudflare"]
+categories: ["教程"]
+tags: ["博客", "Hugo", "cloudflare"]
 keyword: ["Hugo", "Github", "Cloudflare", "博客", "第一"]
 ---
 

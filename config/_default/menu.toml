@@ -1,12 +1,3 @@
-# Configure main menu and social menu
-# [[main]]
-# identifier = "home"
-# name = "Home"
-# url = "/en/"
-# [main.params]
-# icon = "home"
-# newtab = false
-
 [[social]]
 identifier = "github"
 name = "GitHub"
@@ -30,6 +21,14 @@ url = "https://space.bilibili.com/355572423"
 
 [social.params]
 icon = "brand-bilibili"
+
+[[social]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+
+[social.params]
+icon = "rss"
 
 # [[social]]
 # identifier = "twitter"

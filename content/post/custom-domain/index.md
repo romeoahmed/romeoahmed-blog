@@ -6,8 +6,9 @@ toc: true
 draft: false
 readingTime: true
 comments: true
-categories: ["blog", "domain", "cloudflare"]
-keyword: ["域名", "Cloudflare", "博客"]
+categories: ["教程"]
+tags: ["博客", "域名", "cloudflare", "CDN"]
+keyword: ["域名", "Cloudflare", "CDN", "博客"]
 ---
 
 本教程将指导你如何为你的博客设置自定义域名并开启 CDN 加速。我们将使用以下服务：

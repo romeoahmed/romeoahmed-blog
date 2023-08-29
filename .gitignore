@@ -2,4 +2,3 @@ public
 resources
 .hugo_build.lock
 assets/jsconfig.json
-i18n/
