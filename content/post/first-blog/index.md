@@ -101,15 +101,9 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
-      
-      - name: Clean cache
-        run: hugo mod clean
-      
-      - name: Update theme
-        run: hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
 
-      - name: Tidy go.mod, go.sum
-        run: hugo mod tidy
+      - name: Update theme
+        run: git submodule update --remote --merge
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
