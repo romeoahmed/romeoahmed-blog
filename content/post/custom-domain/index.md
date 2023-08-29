@@ -1,5 +1,5 @@
 ---
-title: "为你的博客设置自定义域名"
+title: "为你的博客设置自定义域名并开启 CDN 加速"
 date: 2023-08-28T22:41:47+08:00
 license: true
 toc: true
@@ -10,7 +10,7 @@ categories: ["blog", "domain", "cloudflare"]
 keyword: ["域名", "Cloudflare", "博客"]
 ---
 
-本教程将指导你如何为你的博客设置自定义域名。我们将使用以下服务：
+本教程将指导你如何为你的博客设置自定义域名并开启 CDN 加速。我们将使用以下服务：
 
 - Cloudflare：提供DNS解析与CDN加速
 - Cloudflare Pages：博客部署平台
