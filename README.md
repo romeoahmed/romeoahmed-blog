@@ -14,7 +14,7 @@ This blog is built using [Hugo](https://gohugo.io/), a fast and modern static si
 ## Prerequisites
 
 - [Git](https://git-scm.com/)
-- [Go] (https://go.dev/)
+- [Go](https://go.dev/)
 - [Hugo Extended](https://gohugo.io/getting-started/installing/)
 - [Dart Sass](https://sass-lang.com/dart-sass/)
 
