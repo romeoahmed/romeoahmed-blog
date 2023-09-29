@@ -115,12 +115,3 @@ jobs:
 这将创建一个 Github Actions 工作流，每天自动更新 stack 主题。
 
 现在，你已经成功使用 Hugo、Github Actions 和 Cloudflare Pages 搭建了你的第一个博客。每次向 Github 仓库推送新的内容时，Cloudflare Pages 都会自动构建并部署你的博客。
-
-## 参考资料
-
-- [1].[Deploy a Hugo site · Cloudflare Pages docs](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
-- [2].[Create a Hugo Website with GitHub Pages, GitHub Actions, and Cloudflare](https://schnerring.net/blog/create-a-hugo-website-with-github-pages-github-actions-and-cloudflare/)
-- [3].[Making a HUGO Website The Full Stack Way - Intro - DuBlog](https://dublog.net/blog/hugo-blog-0/)
-- [4].[Using GitHub Pages with Actions to deploy Hugo sites in seconds - Tommy Byrd // HugoConf 2022 - YouTube](https://youtube.com/watch?v=Z_7RIuf_Z-Q)
-- [5].[Deploy Your Personal Web-Page With Hugo, Cloudflare and GitHub 100% For Free](https://hackernoon.com/deploy-your-personal-web-page-with-hugo-cloudflare-and-github-100percent-for-free)
-- [6].[How to Make a Simple CMS With Cloudflare, GitHub Actions and Metalsmith | CSS-Tricks](https://css-tricks.com/how-to-make-a-simple-cms-with-cloudflare-github-actions-and-metalsmith/)
