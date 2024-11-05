@@ -4,8 +4,8 @@ languageCode = "zh-Hans"
 title = "Romeo Ahmed の Blog"
 copyright = "Romeo Ahmed. All Rights Reserved."
 
-[paginate]
-    pagerSize = 5
+[pagination]
+pagesize = 5
 
 enableRobotsTXT = true
 
