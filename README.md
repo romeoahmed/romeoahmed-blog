@@ -32,5 +32,6 @@ hugo server
 ```
 
 ## License
+
 This project is licensed under the **MIT** license.  
 See the [LICENSE](https://github.com/romeoahmed/romeoahmed-blog/blob/main/LICENSE) file for details.
