@@ -1,9 +1,11 @@
 # Change baseurl before deploy
 baseurl = "https://romeoahmed.top"
 languageCode = "zh-Hans"
-paginate = 5
 title = "Romeo Ahmed の Blog"
 copyright = "Romeo Ahmed. All Rights Reserved."
+
+[paginate]
+    pagerSize = 5
 
 enableRobotsTXT = true
 
